@@ -1,17 +1,17 @@
 const stations = [
     {
         name: "Los Santos Rock Radio",
-        file: "assets/audio/los_santos_rock.mp3",
+        file: "https://dl.dropboxusercontent.com/scl/fi/3w80jjw45kbqs9s14q5bf/los_santos_rock.mp3?rlkey=lqeru0hs9c0rwbu11d78l1l0m&dl=1",
         icon: "assets/images/rock_radio_icon.png"
     },
     {
         name: "Non-Stop Pop FM",
-        file: "assets/audio/non_stop_pop.mp3",
+        file: "https://dl.dropboxusercontent.com/scl/fi/gadxeb6l3h224av1i60jg/non_stop_pop.mp3?rlkey=pam30ci5gg395y3n31m2de8a8&dl=1",
         icon: "assets/images/non_stop_pop_icon.png"
     },
     {
         name: "West Coast Classics",
-        file: "assets/audio/west_coast_classics.mp3",
+        file: "https://dl.dropboxusercontent.com/scl/fi/56okqpeftd5hks5alv8qm/west_coast_classics.mp3?rlkey=1k6lfwhuu8wpcn8ilh68lrmtt&dl=1",
         icon: "assets/images/west_coast_classics_icon.png"
     }
 ];
